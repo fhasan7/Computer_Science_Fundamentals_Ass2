@@ -1,6 +1,6 @@
 /**
  * 
- * @author Fatima Hasan 250895618 - fhasan7@uwo.ca CS1027 - Assignment2 The
+ * @author Fatima Hasan  CS1027 - Assignment2 The
  *         class ArrayStack<T> implements StackADT<T> implements a stack using
  *         an array
  * @param <T>
