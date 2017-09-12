@@ -1,7 +1,7 @@
 
 /**
  * @author Fatima Hasan 
- * 250895618 - fhasan7@uwo.ca
+ * 
  * CS1027 - Assignmment 2
  * This class will take a file name as a parameter and finds the exit to the dungeon provided.
  */
